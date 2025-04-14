@@ -45,8 +45,8 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/pavelkulak/kanban-board.git
-cd kanban-board
+git clone https://github.com/pavelkulak/KanbanDesk.git
+cd KanbanDesk
 ```
 
 2. Установите зависимости:
@@ -109,7 +109,7 @@ src/
 
 ## Автор
 
-[Ваше Имя]
+Pavel Kulak
 
 ## Лицензия
 
