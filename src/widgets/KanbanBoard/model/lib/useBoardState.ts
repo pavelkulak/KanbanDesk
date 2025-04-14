@@ -9,7 +9,7 @@ export const useBoardState = () => {
   const [newTaskStatus, setNewTaskStatus] = useState<TaskStatus>(TaskStatus.WAITING);
   const { addTask, updateTask, deleteTask, moveTask } = useTasks();
 
-  const handleDragStart = useCallback((e: React.DragEvent<HTMLDivElement>, task: Task) => {
+  const handleDragStart = useCallback((_: React.DragEvent<HTMLDivElement>, task: Task) => {
     setDraggedTask(task);
   }, []);
 

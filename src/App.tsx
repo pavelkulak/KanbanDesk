@@ -1,4 +1,3 @@
-import React from 'react';
 import { Provider } from 'react-redux';
 import { store } from './app/providers/store';
 import { KanbanBoard } from './widgets/KanbanBoard';
