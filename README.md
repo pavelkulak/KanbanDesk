@@ -111,6 +111,3 @@ src/
 
 Pavel Kulak
 
-## Лицензия
-
-MIT
