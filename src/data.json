@@ -1,0 +1,23 @@
+[
+  {
+    "id": "task1",
+    "title": "Регистрация/Вход на компонентах",
+    "status": "WAITING",
+    "priority": "MEDIUM",
+    "assignee": "Денис Иванов"
+  },
+  {
+    "id": "task2",
+    "title": "Инпут Поле Задача",
+    "status": "IN_PROGRESS",
+    "priority": "HIGH",
+    "assignee": "Денис Иванов"
+  },
+  {
+    "id": "task3",
+    "title": "Выполненное",
+    "status": "DONE",
+    "priority": "LOW",
+    "assignee": "Денис Иванов"
+  }
+]

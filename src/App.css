@@ -1,0 +1,10 @@
+/* Добавляем шрифт Inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+.app {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #e7f3f1;
+  padding: 24px 0;
+  font-family: 'Inter', sans-serif;
+}
